@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-12-17T21:13:11.811922",
+  "statistics": {
+    "total_documents": 2,
+    "successful": 2,
+    "failed": 0,
+    "total_cost": "$0.000353"
+  },
+  "results": [
+    {
+      "success": true,
+      "filename": "meeting_notes.txt",
+      "summary": "**Main Topic:**  \nThe meeting focused on the product development strategy and priorities for Q1 2025.\n\n**Key Points:**  \n- Proposed features prioritized: AI assistant integration (high), mobile app redesign (medium), analytics dashboard (low) with a timeline for development and launch.  \n- User feedback indicated a strong demand for dark mode, keyboard shortcuts, and offline mode, along with concerns about performance and navigation.  \n- Competitor analysis highlighted strengths in UX and pricing, but identified weaknesses in integrations and user base size.  \n- Approved budget of $180,000 for hiring two additional backend developers to support Q1 features.  \n- Marketing strategy includes a three-phase campaign aimed at achieving 10,000 new sign-ups in Q1.\n\n**Conclusion or Outcome:**  \nThe team established clear priorities and action items to enhance product development and marketing efforts for the upcoming quarter.",
+      "tokens": 734,
+      "cost": 0.0001893
+    },
+    {
+      "success": true,
+      "filename": "tech_news.txt",
+      "summary": "**Main topic:** QuantumTech Inc. announces a significant breakthrough in quantum computing by stabilizing qubits at room temperature.\n\n**Key points:**\n- QuantumTech has stabilized qubits at room temperature for over 10 seconds, improving from the previous 2-second record.\n- The breakthrough could make quantum computers practical for everyday use within 5-10 years.\n- The technology utilizes diamond-based processors and advanced error correction, achieving calculations 1,000 times faster than current supercomputers for specific tasks.\n- QuantumTech's stock rose 47% post-announcement, with a projected quantum computing market value of $850 billion by 2035.\n- The company plans to showcase the technology in March 2025 and expects commercial products by 2027.\n\n**Conclusion or outcome:** This breakthrough positions QuantumTech as a leader in the quantum computing field, potentially transforming various industries.",
+      "tokens": 566,
+      "cost": 0.00016409999999999998
+    }
+  ]
+}
